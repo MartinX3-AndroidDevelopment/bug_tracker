@@ -2,6 +2,7 @@ Copyright (C) Martin Dünkelmann 2019
 =============================================
 
 This is the Bug Tracker for MartinX3s Android Development.
+**Not the Bug Tracker about source code specific bugs in the custom roms itself.**
 
 Supported devices:
    - SDM845 devices (tama board):
