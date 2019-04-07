@@ -7,10 +7,10 @@ assignees: MartinX3
 
 ---
 
-**Platform:** 
+**Platform:** TAMA
 **Device:** 
-**Kernel version:** 
-**Android version:** 
+**Kernel version:** 4.9
+**Android version:** 9.0
 
 **Description**
 Write the issue description here.
