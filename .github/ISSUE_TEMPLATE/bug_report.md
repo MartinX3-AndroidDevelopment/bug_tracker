@@ -20,3 +20,8 @@ Write the symptoms here.
 
 **How to reproduce**
 Write how to reproduce here.
+
+**Additional context**
+Add any other context, e.g. upload logs or screenshots about the bug here.
+<!-- It will be very hard for us to track down your issue without logs, so
+please attach a logcat and dmesg for us here! -->
