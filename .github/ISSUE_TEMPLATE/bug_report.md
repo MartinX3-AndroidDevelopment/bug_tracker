@@ -9,8 +9,8 @@ assignees: MartinX3
 
 **Platform:** TAMA
 **Device:** AKARI, APOLLO, AURORA, AKATSUKI
-**Kernel version:** 4.9
-**Android version:** 9.0
+**Kernel version:** 4.14
+**Android version:** 11
 
 **Description**
 Write the issue description here.
