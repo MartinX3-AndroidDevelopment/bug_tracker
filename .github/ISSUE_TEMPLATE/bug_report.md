@@ -1,27 +1,32 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: "[Bug] "
+title: "[BUG] "
 labels: bug
 assignees: MartinX3
 
 ---
 
-**Platform:** TAMA
-**Device:** AKARI, APOLLO, AURORA, AKATSUKI
-**Kernel version:** 4.14
-**Android version:** 11
+Platform: TAMA
+Device: XZ2 (AKARI), XZ2C (APOLLO), XZ3 (AKATSUKI)
+Kernel version: 4.19
+Android version: 12
 
-**Description**
+###### Description
 Write the issue description here.
 
-**Symptoms**
-Write the symptoms here.
+###### To Reproduce
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
 
-**How to reproduce**
-Write how to reproduce here.
+###### Expected behavior
+A clear and concise description of what you expected to happen.
 
-**Additional context**
-Add any other context, e.g. upload logs or screenshots about the bug here.
-<!-- It will be very hard for us to track down your issue without logs, so
-please attach a logcat and dmesg for us here! -->
+###### Screenshots
+If applicable, add screenshots to help explain your problem.
+
+###### Additional context
+Add any other context about the problem here.
