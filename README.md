@@ -1,4 +1,4 @@
-Copyright (C) Martin Dünkelmann 2019
+Copyright (C) Martin Dünkelmann 2019-2022
 =============================================
 
 This is the Bug Tracker for MartinX3s Android Development.
@@ -8,8 +8,7 @@ This is the Bug Tracker for MartinX3s Android Development.
 Supported devices:
    - SDM845 devices (tama board):
       - Xperia XZ2 ....................... Akari
-      - Xperia XZ2 Compact ...... Apollo
-      - Xperia XZ2 Premium ...... Aurora
+      - Xperia XZ2 Compact ............... Apollo
       - Xperia XZ3 ....................... Akatsuki
 
 How to add a bug report
